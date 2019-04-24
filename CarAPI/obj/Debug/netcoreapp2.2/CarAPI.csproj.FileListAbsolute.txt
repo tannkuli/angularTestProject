@@ -1,0 +1,14 @@
+C:\Users\johnj\source\repos\CarAPI\CarAPI\bin\Debug\netcoreapp2.2\CarAPI.deps.json
+C:\Users\johnj\source\repos\CarAPI\CarAPI\bin\Debug\netcoreapp2.2\CarAPI.runtimeconfig.json
+C:\Users\johnj\source\repos\CarAPI\CarAPI\bin\Debug\netcoreapp2.2\CarAPI.runtimeconfig.dev.json
+C:\Users\johnj\source\repos\CarAPI\CarAPI\bin\Debug\netcoreapp2.2\CarAPI.dll
+C:\Users\johnj\source\repos\CarAPI\CarAPI\obj\Debug\netcoreapp2.2\CarAPI.csprojAssemblyReference.cache
+C:\Users\johnj\source\repos\CarAPI\CarAPI\obj\Debug\netcoreapp2.2\CarAPI.csproj.CoreCompileInputs.cache
+C:\Users\johnj\source\repos\CarAPI\CarAPI\obj\Debug\netcoreapp2.2\CarAPI.RazorAssemblyInfo.cache
+C:\Users\johnj\source\repos\CarAPI\CarAPI\obj\Debug\netcoreapp2.2\CarAPI.RazorAssemblyInfo.cs
+C:\Users\johnj\source\repos\CarAPI\CarAPI\obj\Debug\netcoreapp2.2\CarAPI.AssemblyInfoInputs.cache
+C:\Users\johnj\source\repos\CarAPI\CarAPI\obj\Debug\netcoreapp2.2\CarAPI.AssemblyInfo.cs
+C:\Users\johnj\source\repos\CarAPI\CarAPI\obj\Debug\netcoreapp2.2\CarAPI.RazorTargetAssemblyInfo.cache
+C:\Users\johnj\source\repos\CarAPI\CarAPI\bin\Debug\netcoreapp2.2\CarAPI.pdb
+C:\Users\johnj\source\repos\CarAPI\CarAPI\obj\Debug\netcoreapp2.2\CarAPI.dll
+C:\Users\johnj\source\repos\CarAPI\CarAPI\obj\Debug\netcoreapp2.2\CarAPI.pdb
